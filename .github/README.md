@@ -1,3 +1,11 @@
+> [!NOTE]
+>
+> 本仓库复刻自 [yasirkula/UnitySimpleFileBrowser](https://github.com/yasirkula/UnitySimpleFileBrowser)，用于 IPOL-Studio 内部使用
+> 
+> 主要修改：汉化了 Plugins/SimpleFileBrowser/Resources/SimpleFileBrowserCanvas.prefab 中的文本
+>
+> 导入到 Unity 包管理器：`https://github.com/IPOL-Studio/UnitySimpleFileBrowser.git`
+
 # Unity Simple File Browser
 
 ![screenshot](screenshots/filebrowser.png)
